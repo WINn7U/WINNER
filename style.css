@@ -1,0 +1,23 @@
+body{
+   margin: 0;
+   background: #3e3e3e;
+   padding: 0;
+}
+
+
+.header{
+    width: 100;
+    color: #00ccff;
+    background: #00ccff;
+    height: 3.5pc;
+    margin: auto;
+}
+.des{
+    margin: 0;
+    margin-top: 6pc;
+    margin-left: 43.2%;
+    text-decoration: none;
+}.texs{
+    color: #ffffff;
+    font-weight: bold;
+}
